@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Poulami Paul</h1>
 <h3 align="center">⭐⭐⭐⭐ (PROBLEM SOLVING) @ HackerRank || Mentee @CodXCrypt || JGEC CSE'25</h3>

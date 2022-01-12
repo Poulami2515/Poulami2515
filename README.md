@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_lustre_1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_lustre_1_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/poulami-paul-69a988220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poulami-paul-69a988220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/poulami-paul-69a988220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poulami-paul-69a988220/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/poulami_2515" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poulami_2515" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poulami2516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poulami2516" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/poulami2516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="poulami2516" height="30" width="40" /></a>

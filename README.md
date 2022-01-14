@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Poulami Paul</h1>
 <h3 align="center">⭐⭐⭐⭐ (PROBLEM SOLVING) @ HackerRank || Mentee @CodXCrypt || JGEC CSE'25</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poulami2515&label=Profile%20views&color=0e75b6&style=flat" alt="poulami2515" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=poulami2515&label=Profile%20views&color=0e75b6&style=flat" alt="poulami2515" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulami2515" alt="poulami2515" /></a> </p>
 

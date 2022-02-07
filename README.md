@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=%230DDF88&multiline=true&height=200&lines=Hey+there!+👋;Welcome+to+my+profile!;I+am+a+freshman+pursuing+B.Tech+in;Computer+Science+and+Engineering;from+JGEC.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Serif&color=%230DDF88&multiline=true&height=200&lines=Hey+there!+👋;Welcome+to+my+profile!;I+am+a+freshman+pursuing+B.Tech+in;Computer+Science+and+Engineering;from+JGEC.;)](https://git.io/typing-svg)
 <br>
 
 <h1 align="center">I'm Poulami Paul</h1>

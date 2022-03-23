@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/_lustre_1_" target="blank"><img src="https://img.shields.io/twitter/follow/_lustre_1_?logo=twitter&style=for-the-badge" alt="_lustre_1_" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, App Development**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/poulami-paul-69a988220/**
 

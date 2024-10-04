@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">I'm Poulami Paul</h1>
-<h3 align="center">Project Intern @Jio Institute || ex-Scholar @WIT 2022, NXP Semiconductors || Quantum Computing, VLSI and Machine Learning Enthusiast || JGEC CSE'25</h3>
+<h3 align="center">Former Research Intern @Jio Institute || Scholar @WIT 2022, NXP Semiconductors || Quantum Computing, VLSI and Machine Learning Enthusiast || JGEC CSE'25</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poulami2515&label=Profile%20views&color=0e75b6&style=flat" alt="poulami2515" /> </p>

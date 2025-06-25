@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Hardware Description Languages(HDL), Quantum Computing, Qiskit 1.0.2 and Matlab**
 
-- 📫 How to reach me **https://bit.ly/portfolio_poulami**
+- 📫 How to reach me **https://bit.ly/portfolio_poulami_paul**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

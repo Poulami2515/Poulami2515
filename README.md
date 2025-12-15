@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/_lustre_1_" target="blank"><img src="https://img.shields.io/twitter/follow/_lustre_1_?logo=twitter&style=for-the-badge" alt="_lustre_1_" /></a> </p>
 
 
-- 🌱 I’m currently learning **NLP, LLM fine-tuning, Prompt Enfineering, Data Mining**
+- 🌱 I’m currently learning **NLP, LLM fine-tuning, Prompt Engineering, Data Mining**
 
 - 📫 How to reach me **https://bit.ly/portfolio_poulami_paul**
 

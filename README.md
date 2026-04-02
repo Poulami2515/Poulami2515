@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">I'm Poulami Paul</h1>
-<h3 align="center">NLP and Data Mining Researcher @Jio Institute || Scholar @WIT 2022, NXP Semiconductors || JGEC CSE'25</h3>
+<h3 align="center">NLP Researcher @Jio Institute || Scholar @WIT 2022, NXP Semiconductors || JGEC CSE'25</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poulami2515&label=Profile%20views&color=0e75b6&style=flat" alt="poulami2515" /> </p>
@@ -14,9 +14,12 @@
 <p align="left"> <a href="https://twitter.com/_lustre_1_" target="blank"><img src="https://img.shields.io/twitter/follow/_lustre_1_?logo=twitter&style=for-the-badge" alt="_lustre_1_" /></a> </p>
 
 
-- 🌱 I’m currently learning **NLP, LLM fine-tuning, Prompt Engineering, Data Mining**
-
-- 📫 How to reach me **https://bit.ly/portfolio_poulami_paul**
+🌱 I’m currently learning 
+- **NLP**
+- **LLM probing**
+- **Causes of Hallucination**
+- **Prompt Engineering**
+- **Modality bias in MLLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
